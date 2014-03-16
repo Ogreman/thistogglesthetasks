@@ -59,6 +59,8 @@ ROOT_URLCONF = 'thistogglesthetasks.urls'
 WSGI_APPLICATION = 'thistogglesthetasks.wsgi.application'
 
 
+DATABASES = {}
+
 # Database
 # https://docs.djangoproject.com/en/1.6/ref/settings/#databases
 # Parse database configuration from $DATABASE_URL
